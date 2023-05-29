@@ -1,0 +1,14 @@
+.page {
+   background-color: #2A2C2F;
+   min-width: 320px;
+   width: 100%;
+   margin: 0 auto;
+   font-family: 'Inter', Helvetica, Arial, sans-serif;
+}
+
+.first__tag {
+   margin: 200px auto;
+   text-align: center;
+   color: white;
+   font-size: 48px;
+}
